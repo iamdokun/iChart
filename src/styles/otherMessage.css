@@ -1,0 +1,17 @@
+.otherMessageWrap {
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 16px;
+    margin: 1rem 0;
+}
+.otherMessage {
+width: 70%;
+    min-height: 50px;
+    background-color: #D3D3D3;
+    color: #808080;
+    font-family: Roboto;
+    font-size: 16px;
+    word-spacing: 3px;
+    padding: 10px;
+    border-radius: 5px;
+}
